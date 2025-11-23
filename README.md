@@ -9,6 +9,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/samadasyed/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/samadasyed/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/samadasyed/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samadasyed/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/samadasyed/Leetcode/tree/master/0792-binary-search) |
 ## Binary Search
@@ -22,4 +23,8 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/samadasyed/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/samadasyed/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
