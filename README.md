@@ -30,10 +30,12 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/samadasyed/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/samadasyed/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -42,5 +44,14 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/samadasyed/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
