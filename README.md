@@ -49,9 +49,15 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/samadasyed/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/samadasyed/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/samadasyed/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
