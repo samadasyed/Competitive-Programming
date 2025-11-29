@@ -31,22 +31,26 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samadasyed/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/samadasyed/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/samadasyed/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/samadasyed/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/samadasyed/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samadasyed/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/samadasyed/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/samadasyed/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samadasyed/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/samadasyed/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/samadasyed/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String
