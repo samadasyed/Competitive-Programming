@@ -12,6 +12,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samadasyed/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samadasyed/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/samadasyed/Leetcode/tree/master/0792-binary-search) |
+| [1127-last-stone-weight](https://github.com/samadasyed/Leetcode/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +68,8 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samadasyed/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/samadasyed/Leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
