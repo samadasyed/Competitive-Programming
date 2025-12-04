@@ -12,6 +12,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samadasyed/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samadasyed/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/samadasyed/Leetcode/tree/master/0792-binary-search) |
+| [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/samadasyed/Leetcode/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
@@ -71,5 +72,26 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/samadasyed/Leetcode/tree/master/1127-last-stone-weight) |
+## Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
