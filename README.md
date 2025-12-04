@@ -36,6 +36,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samadasyed/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/samadasyed/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samadasyed/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/samadasyed/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -55,6 +56,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samadasyed/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/samadasyed/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samadasyed/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/samadasyed/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String
 |  |
@@ -74,6 +76,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samadasyed/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samadasyed/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/samadasyed/Leetcode/tree/master/1127-last-stone-weight) |
 ## Math
@@ -99,4 +102,16 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samadasyed/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samadasyed/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samadasyed/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samadasyed/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
