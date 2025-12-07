@@ -126,4 +126,12 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/samadasyed/Leetcode/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/samadasyed/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/samadasyed/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
