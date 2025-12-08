@@ -115,6 +115,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/samadasyed/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/samadasyed/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samadasyed/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -151,8 +152,13 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/samadasyed/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/samadasyed/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/samadasyed/Leetcode/tree/master/0200-number-of-islands) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/samadasyed/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
