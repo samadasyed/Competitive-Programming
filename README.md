@@ -15,6 +15,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | [0215-kth-largest-element-in-an-array](https://github.com/samadasyed/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/samadasyed/Leetcode/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/samadasyed/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/samadasyed/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/samadasyed/Leetcode/tree/master/1127-last-stone-weight) |
 ## Binary Search
@@ -24,6 +25,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | [0074-search-a-2d-matrix](https://github.com/samadasyed/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samadasyed/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/samadasyed/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/samadasyed/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
