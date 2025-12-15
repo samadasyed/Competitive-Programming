@@ -8,6 +8,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/samadasyed/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/samadasyed/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/samadasyed/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samadasyed/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samadasyed/Leetcode/tree/master/0136-single-number) |
@@ -30,6 +31,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/samadasyed/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/samadasyed/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/samadasyed/Leetcode/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
@@ -93,6 +95,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/samadasyed/Leetcode/tree/master/0048-rotate-image) |
 | [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
