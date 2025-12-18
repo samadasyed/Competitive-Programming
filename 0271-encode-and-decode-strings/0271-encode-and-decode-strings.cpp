@@ -1,3 +1,6 @@
+
+//format I went with: length + # + word 
+//5#hello5#world
 class Codec {
 public:
 
@@ -18,11 +21,11 @@ public:
         int i = 0; 
 
         while (i < s.size()) {
-            int j = s.find('#', i);
-            int length = stoi(s.substr(i, j-i)); 
-            string str = s.substr(j+1, length); 
+            int j = s.find('#', i); //find our first #, set to J
+            int length = stoi(s.substr(i, j-i)); //find the length of our actual string (ie number before #)
+            string str = s.substr(j+1, length); //grab our string
             res.push_back(str);
-            i = j + 1 + length; 
+            i = j + 1 + length; //move to next word
 
         }
         return res; 
@@ -33,12 +36,3 @@ public:
 // Codec codec;
 // codec.decode(codec.encode(strs));
 
-/**our encode method I'm going to take the string and encode it like
-
-input = [hello, hi, bye]
-
-hello;hi;bye
-
-
-
-**/
