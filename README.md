@@ -17,6 +17,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samadasyed/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/samadasyed/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samadasyed/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0271-encode-and-decode-strings](https://github.com/samadasyed/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0621-task-scheduler](https://github.com/samadasyed/Leetcode/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/samadasyed/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/samadasyed/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -77,6 +78,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samadasyed/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/samadasyed/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0271-encode-and-decode-strings](https://github.com/samadasyed/Leetcode/tree/master/0271-encode-and-decode-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | ------- |
 | [0155-min-stack](https://github.com/samadasyed/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/samadasyed/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0271-encode-and-decode-strings](https://github.com/samadasyed/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samadasyed/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
