@@ -18,6 +18,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samadasyed/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/samadasyed/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samadasyed/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0252-meeting-rooms](https://github.com/samadasyed/Leetcode/tree/master/0252-meeting-rooms) |
 | [0271-encode-and-decode-strings](https://github.com/samadasyed/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0621-task-scheduler](https://github.com/samadasyed/Leetcode/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/samadasyed/Leetcode/tree/master/0792-binary-search) |
@@ -120,6 +121,7 @@ Just including some leetcode problems I've solved and deeper and more in depth s
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samadasyed/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0252-meeting-rooms](https://github.com/samadasyed/Leetcode/tree/master/0252-meeting-rooms) |
 | [0621-task-scheduler](https://github.com/samadasyed/Leetcode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/samadasyed/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
