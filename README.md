@@ -1,9 +1,9 @@
-# Leetcode
+# Competitive Programming
 
-Just including some leetcode problems I've solved and deeper and more in depth solutions. 
+Just including some leetcode problems I've solved and deeper and more in depth solutions from an other directory.  
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
+<!---Topics Start-->
+# Topics
 ## Array
 |  |
 | ------- |
