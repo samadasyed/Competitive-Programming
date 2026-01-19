@@ -55,10 +55,46 @@ void gridDFS(vector<vector<char>>& grid, int r, int c) {
     }
 }
 
+int VanillaGridBFS(vector<vector<char>>& grid) {
+    int rows = grid.size(); 
+    int cols = grid[0].size(); 
+    int islands = 0; 
 
+    for (int r = 0; r < rows; r++) {
+        for (int c = 0; c < cols; c++) {
+            if (grid[r][c] == '1') {
+                gridBFS(grid, r, c); 
+                islands++; 
+            }
+        }
+    }
+}
 
+void gridBFS(vector<vector<char>>& grid, int r, int c) {
+    queue<pair<int, int>> q;
+    grid[r][c] = '0'; 
+    q.push({r, c}); 
+    while (!q.empty()) {
+        auto node = q.front(); 
+        q.pop(); 
+        int row = node.first; 
+        int col = node.second;
+        
+        for (int i = 0; i < 4; i++) { //review this
+            int nr = row + directions[i][0]; 
+            int nc = col + directions[i][1]; 
+            if (nr >= 0 && nc >= 0 && nr < grid.size() && nc < grid[0].size() && grid[nr][nc] == '1') {
+                q.push({nr, nc}); 
+                grid[nr][nc] == '0'; 
+            }
+        }
+    }
+}
 
+//using walls and gates
+int multiSourceBFS(vector<vector<int>>& grid) {
 
+}
 
 
 
