@@ -92,8 +92,43 @@ void gridBFS(vector<vector<char>>& grid, int r, int c) {
 }
 
 //using walls and gates
-int multiSourceBFS(vector<vector<int>>& grid) {
+int multiSourceBFSGrid(vector<vector<int>>& grid) {
+    int rows = grid.size(); 
+    int cols = grid[0].size(); 
 
+    queue<pair<int,int>> q; 
+    for (int r = 0; r < rows; r++) {
+        for (int c = 0; c < rows; c++) {
+            if (grid[r][c] == 0) {
+                multiSourceBFS(grid, r, c, q); 
+            }
+        }
+    }
+}
+
+void multiSourceBFS(vector<vector<int>>& grid, int r, int c, queue<pair<int,int>> q) {
+    q.push({r,c}); 
+
+    while (!q.empty()) {
+        auto node = q.front(); 
+        q.pop(); 
+
+        int row = node.first; 
+        int col = node.second; 
+
+        for (int i = 0; i < 4; i++) {
+            int r = row + directions[i][0];
+            int c = col + directions[i][1]; 
+
+             if (r < 0 || r >= grid.size() || c < 0 ||
+                    c >= grid[0].size() || grid[r][c] != INT_MAX) {
+                    continue;
+                }
+
+                grid[r][c] = grid[row][col] + 1;
+                q.push({r, c});
+        }
+    }
 }
 
 
