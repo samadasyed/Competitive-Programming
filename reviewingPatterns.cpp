@@ -132,6 +132,20 @@ void multiSourceBFS(vector<vector<int>>& grid, int r, int c, queue<pair<int,int>
 }
 
 
+//1D DP (Which is kinda a bit like backtracking)
+//Using House Robber as first example 
+
+    int oneDDP(vector<int>& nums) {
+        vector<int> dpArr (nums.size()+2, 0); //creating a memory of 2 more than the nums array
+        for (int i = nums.size()-1; i >= 0; i--) {
+            if (i = -1) {
+                break; 
+            }
+            dpArr[i] = max(dpArr[i+2] + nums[i], dpArr[i+1]);  //trying to find the max money generated from skipping (dpArr[i+1]) and from robbing and going to the next dpArr[i+2] + nums[i]; 
+        } 
+        return dpArr[0]; 
+    }
+
 
 int main () {
     return 0; 
