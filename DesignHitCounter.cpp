@@ -1,32 +1,17 @@
 class HitCounter {
 public:
-    vector<int> timestampsHit; 
+    vector<int> timestamps; 
     HitCounter() {
         
     }
     
     void hit(int timestamp) {
-        timestampsHit.push_back(timestamp); 
+        timestamps.push_back(timestamp); 
     }
     
     int getHits(int timestamp) {
-        if (timestampsHit.size() == 0) {
-            return 0; 
-        }
-        int left = 0; 
-        int right = timestampsHit.size()-1; 
-        int mid = -1; 
-        while (left <= right){
-            mid = left + (right-left)/2; 
-
-            if (timestampsHit[mid] > timestamp) {
-                right = mid -1; 
-            }
-            else  {
-                left = mid + 1;
-            }
-        }
-        return (timestampsHit[mid]);  
+      auto startIterator = lower_bound(timestamps.begin(), timestamps.end(),timestamp - 300 + 1); 
+       return timestamps.end() - startIterator;
     }
 };
 
